@@ -1,0 +1,17 @@
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\obj\Debug\net6.0\8 kyu.csproj.AssemblyReference.cache
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\obj\Debug\net6.0\8 kyu.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\obj\Debug\net6.0\8 kyu.AssemblyInfoInputs.cache
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\obj\Debug\net6.0\8 kyu.AssemblyInfo.cs
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\obj\Debug\net6.0\8 kyu.csproj.CoreCompileInputs.cache
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\bin\Debug\net6.0\8 kyu.exe
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\bin\Debug\net6.0\8 kyu.deps.json
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\bin\Debug\net6.0\8 kyu.runtimeconfig.json
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\bin\Debug\net6.0\8 kyu.dll
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\bin\Debug\net6.0\8 kyu.pdb
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\obj\Debug\net6.0\8 kyu.dll
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\obj\Debug\net6.0\refint\8 kyu.dll
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\obj\Debug\net6.0\8 kyu.pdb
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\obj\Debug\net6.0\8 kyu.genruntimeconfig.cache
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\obj\Debug\net6.0\ref\8 kyu.dll
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\bin\Debug\net6.0\nunit.framework.dll
+C:\REPO\CodewarsCSharp\8 kyu\8 kyu\obj\Debug\net6.0\8 kyu.csproj.CopyComplete
